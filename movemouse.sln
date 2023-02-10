@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "movemouse", "movemouse\movemouse.csproj", "{77F13815-2B33-49CB-81B5-B4F04C5D8BB4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "setupmovemouse", "setupmovemouse\setupmovemouse.vdproj", "{122CB60E-D4DA-4E81-B61F-7FD8D491751F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F13815-2B33-49CB-81B5-B4F04C5D8BB4}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{77F13815-2B33-49CB-81B5-B4F04C5D8BB4}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{77F13815-2B33-49CB-81B5-B4F04C5D8BB4}.Debug|ARM64.Build.0 = Debug|ARM64
+		{77F13815-2B33-49CB-81B5-B4F04C5D8BB4}.Debug|x64.ActiveCfg = Debug|x64
+		{77F13815-2B33-49CB-81B5-B4F04C5D8BB4}.Debug|x64.Build.0 = Debug|x64
+		{77F13815-2B33-49CB-81B5-B4F04C5D8BB4}.Debug|x86.ActiveCfg = Debug|x86
+		{77F13815-2B33-49CB-81B5-B4F04C5D8BB4}.Debug|x86.Build.0 = Debug|x86
+		{77F13815-2B33-49CB-81B5-B4F04C5D8BB4}.Release|Any CPU.ActiveCfg = Release|x64
+		{77F13815-2B33-49CB-81B5-B4F04C5D8BB4}.Release|Any CPU.Build.0 = Release|x64
+		{77F13815-2B33-49CB-81B5-B4F04C5D8BB4}.Release|ARM64.ActiveCfg = Release|ARM64
+		{77F13815-2B33-49CB-81B5-B4F04C5D8BB4}.Release|ARM64.Build.0 = Release|ARM64
+		{77F13815-2B33-49CB-81B5-B4F04C5D8BB4}.Release|x64.ActiveCfg = Release|x64
+		{77F13815-2B33-49CB-81B5-B4F04C5D8BB4}.Release|x64.Build.0 = Release|x64
+		{77F13815-2B33-49CB-81B5-B4F04C5D8BB4}.Release|x86.ActiveCfg = Release|x86
+		{77F13815-2B33-49CB-81B5-B4F04C5D8BB4}.Release|x86.Build.0 = Release|x86
+		{122CB60E-D4DA-4E81-B61F-7FD8D491751F}.Debug|Any CPU.ActiveCfg = Release
+		{122CB60E-D4DA-4E81-B61F-7FD8D491751F}.Debug|ARM64.ActiveCfg = Debug
+		{122CB60E-D4DA-4E81-B61F-7FD8D491751F}.Debug|ARM64.Build.0 = Debug
+		{122CB60E-D4DA-4E81-B61F-7FD8D491751F}.Debug|x64.ActiveCfg = Debug
+		{122CB60E-D4DA-4E81-B61F-7FD8D491751F}.Debug|x64.Build.0 = Debug
+		{122CB60E-D4DA-4E81-B61F-7FD8D491751F}.Debug|x86.ActiveCfg = Debug
+		{122CB60E-D4DA-4E81-B61F-7FD8D491751F}.Debug|x86.Build.0 = Debug
+		{122CB60E-D4DA-4E81-B61F-7FD8D491751F}.Release|Any CPU.ActiveCfg = Release
+		{122CB60E-D4DA-4E81-B61F-7FD8D491751F}.Release|ARM64.ActiveCfg = Release
+		{122CB60E-D4DA-4E81-B61F-7FD8D491751F}.Release|ARM64.Build.0 = Release
+		{122CB60E-D4DA-4E81-B61F-7FD8D491751F}.Release|x64.ActiveCfg = Release
+		{122CB60E-D4DA-4E81-B61F-7FD8D491751F}.Release|x64.Build.0 = Release
+		{122CB60E-D4DA-4E81-B61F-7FD8D491751F}.Release|x86.ActiveCfg = Release
+		{122CB60E-D4DA-4E81-B61F-7FD8D491751F}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {290FE040-BF00-414A-B54A-7E0E8C350BD3}
+	EndGlobalSection
+EndGlobal
